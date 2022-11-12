@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 90vw;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+main > h2 {
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.center {
+    text-align: center;
+}
